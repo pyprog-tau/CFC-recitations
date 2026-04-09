@@ -5,7 +5,9 @@ format: jb-book
 root: intro
 chapters:
 - file: rec0
-- file: rec1
-- file: rec2
+- file: rec1_1
+- file: rec1_2
+- file: rec2_1
+- file: rec2_2
 - file: rec3
 - file: rec7
